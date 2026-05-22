@@ -176,6 +176,8 @@ banner-digital-projeto/
 ├── script.js
 ├── assets/
 └── README.md
+
+
 4. Ativar o GitHub Pages
 
 No repositório, acesse:
@@ -190,6 +192,8 @@ Folder: /root
 
 Depois clique em Save.
 
+
+
 5. Acessar o site publicado
 
 Após alguns minutos, o GitHub irá gerar um link parecido com:
@@ -197,6 +201,8 @@ Após alguns minutos, o GitHub irá gerar um link parecido com:
 https://seuusuario.github.io/banner-digital-projeto/
 
 Esse será o link público da landing page.
+
+
 
 6. Editar o conteúdo do projeto
 
@@ -217,9 +223,9 @@ QR Code;
 imagens;
 vídeo demonstrativo.
 
-As imagens devem ser colocadas dentro de:
+As imagens devem ser colocadas dentro de: assets/
 
-assets/
+
 7. Entrega recomendada dos alunos
 
 A entrega pode conter:

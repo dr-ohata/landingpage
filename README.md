@@ -116,9 +116,10 @@ Após publicar no GitHub Pages, abra a página pelo link público para que o QR 
 
 ------------------------------------------
 
-# Banner Digital Interativo – Projeto Acadêmico
+# Landpage – Projeto Acadêmico
 
-Este projeto consiste em uma landing page interativa desenvolvida para apresentação de projetos acadêmicos, startups, MVPs e sistemas desenvolvidos em disciplinas de tecnologia.
+Está explicação a seguir, serve para informar como o grupo pode publicar a landpage pelo recurso Github Pages
+
 
 A proposta da página é funcionar como:
 
@@ -149,11 +150,11 @@ O arquivo mais importante é o index.html, pois o GitHub Pages procura esse arqu
 
 No GitHub:
 
-New repository
+- New repository
 
 Sugestão de nome:
 
-banner-digital-projeto
+- landingpage
 
 Deixe como Public.
 
@@ -163,7 +164,8 @@ Entre no repositório criado e clique em:
 
 Add file > Upload files
 
-Envie todos os arquivos da pasta extraída, não envie apenas a pasta compactada.
+Envie todos os arquivos da pasta extraída, não envie apenas a pasta compactada. 
+Caso tenha dificuldade siga os procedimentos de envio utilizando o Github Desktop ou Git pelo prompt.
 
 A estrutura final no GitHub deve ficar assim:
 
@@ -231,8 +233,8 @@ Link do protótipo:
 
 Exemplo:
 
-Equipe InovaTech – Projeto LumiControl
-GitHub: https://github.com/usuario/lumicontrol
-Landing Page: https://usuario.github.io/lumicontrol/
+Equipe X – Projeto Y
+GitHub: https://github.com/usuario/X
+Landing Page: https://usuario.github.io/X/
 Vídeo: link do YouTube ou Drive
 Protótipo: link do Figma

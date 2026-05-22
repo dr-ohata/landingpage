@@ -113,3 +113,126 @@ Os alunos podem enriquecer a página incluindo:
 ## Observação
 
 Após publicar no GitHub Pages, abra a página pelo link público para que o QR Code seja gerado corretamente com o endereço real da landing page.
+
+------------------------------------------
+
+# Banner Digital Interativo – Projeto Acadêmico
+
+Este projeto consiste em uma landing page interativa desenvolvida para apresentação de projetos acadêmicos, startups, MVPs e sistemas desenvolvidos em disciplinas de tecnologia.
+
+A proposta da página é funcionar como:
+
+- banner digital;
+- apresentação visual;
+- portfólio do projeto;
+- vitrine tecnológica;
+- material para pitch e bancas;
+- página oficial publicada online.
+
+---
+
+Para reproduzir e hospedar o projeto banner-digital-interativo-github-pages.zip, faça assim:
+
+1. Descompactar o arquivo
+
+Extraia o .zip. A pasta deve conter algo parecido com:
+
+index.html
+style.css
+script.js
+assets/
+README.md
+
+O arquivo mais importante é o index.html, pois o GitHub Pages procura esse arquivo para abrir a página.
+
+2. Criar um repositório no GitHub
+
+No GitHub:
+
+New repository
+
+Sugestão de nome:
+
+banner-digital-projeto
+
+Deixe como Public.
+
+3. Enviar os arquivos
+
+Entre no repositório criado e clique em:
+
+Add file > Upload files
+
+Envie todos os arquivos da pasta extraída, não envie apenas a pasta compactada.
+
+A estrutura final no GitHub deve ficar assim:
+
+banner-digital-projeto/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+4. Ativar o GitHub Pages
+
+No repositório, acesse:
+
+Settings > Pages
+
+Em Build and deployment, selecione:
+
+Source: Deploy from a branch
+Branch: main
+Folder: /root
+
+Depois clique em Save.
+
+5. Acessar o site publicado
+
+Após alguns minutos, o GitHub irá gerar um link parecido com:
+
+https://seuusuario.github.io/banner-digital-projeto/
+
+Esse será o link público da landing page.
+
+6. Editar o conteúdo do projeto
+
+Os alunos deverão alterar principalmente o arquivo:
+
+index.html
+
+Para trocar:
+
+nome do projeto;
+nome da equipe;
+problema;
+solução;
+funcionalidades;
+tecnologias;
+links do GitHub;
+QR Code;
+imagens;
+vídeo demonstrativo.
+
+As imagens devem ser colocadas dentro de:
+
+assets/
+7. Entrega recomendada dos alunos
+
+A entrega pode conter:
+
+Nome da equipe:
+Nome do projeto:
+Link do GitHub:
+Link do GitHub Pages:
+Link do vídeo demonstrativo:
+Link do protótipo:
+
+Exemplo:
+
+Equipe InovaTech – Projeto LumiControl
+GitHub: https://github.com/usuario/lumicontrol
+Landing Page: https://usuario.github.io/lumicontrol/
+Vídeo: link do YouTube ou Drive
+Protótipo: link do Figma
